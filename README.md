@@ -26,6 +26,9 @@ Identify factors contributing to higher claim rates and propose strategies to mi
 Develop a minimum of five dashboards (excluding summary and insights dashboards) that present different aspects of the claims data.
 Ensure these dashboards are interactive, user-friendly, and visually consistent.
 
+## **Dashboard Link:** 
+https://public.tableau.com/app/profile/arindam.saha1211/viz/Car_project/Story1
+
 - Summary and Recommendations Dashboard:
 Create a summary dashboard that encapsulates the key insights and provides actionable recommendations.
 This dashboard will serve as a quick reference for Senior Management to make data-driven decisions.
